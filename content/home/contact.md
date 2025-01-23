@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: tsarworkshop@googlegroups.com
+  email: dhsgenaiworkshop@googlegroups.com
   # phone: 888 888 88 88
   # address:
   #   street: 450 Serra Mall
@@ -35,8 +35,8 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: "@tsarworkshop"
-      link: 'https://twitter.com/tsarworkshop'
+      name: "@dhsgenaiworkshop"
+      link: 'https://twitter.com/dhsgenaiworkshop'
 
   # Automatically link email and phone or display as text?
   autolink: true

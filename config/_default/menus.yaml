@@ -4,18 +4,18 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Call for Papers
-    url: cfp
+  - name: Agenda
+    url: agenda
     weight: 10
-  - name: Camera Ready
-    url: camera-ready
+  - name: Problem Statement Submissions
+    url: statement
     weight: 20
-  - name: Program
-    url: program
+  - name: White Paper Submission
+    url: white
     weight: 30
-  - name: Invited Talks
-    url: talks
+  - name: Accepted White Papers
+    url: accepted
     weight: 40
-  - name: Resources
-    url: resources
+  - name: Program Committee
+    url: program
     weight: 50
